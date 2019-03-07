@@ -1,0 +1,15 @@
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.FileCaptureRAW\Bonsai.FileCaptureRAW\bin\Debug\Bonsai.FileCaptureRAW.dll
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.FileCaptureRAW\Bonsai.FileCaptureRAW\bin\Debug\Bonsai.FileCaptureRAW.pdb
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.FileCaptureRAW\Bonsai.FileCaptureRAW\bin\Debug\Bonsai.Core.dll
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.FileCaptureRAW\Bonsai.FileCaptureRAW\bin\Debug\OpenCV.Net.dll
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.FileCaptureRAW\Bonsai.FileCaptureRAW\bin\Debug\System.Reactive.Core.dll
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.FileCaptureRAW\Bonsai.FileCaptureRAW\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.FileCaptureRAW\Bonsai.FileCaptureRAW\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.FileCaptureRAW\Bonsai.FileCaptureRAW\bin\Debug\Bonsai.Core.xml
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.FileCaptureRAW\Bonsai.FileCaptureRAW\bin\Debug\OpenCV.Net.xml
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.FileCaptureRAW\Bonsai.FileCaptureRAW\bin\Debug\System.Reactive.Core.xml
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.FileCaptureRAW\Bonsai.FileCaptureRAW\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.FileCaptureRAW\Bonsai.FileCaptureRAW\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.FileCaptureRAW\Bonsai.FileCaptureRAW\obj\Debug\Bonsai.FileCaptureRAW.csprojResolveAssemblyReference.cache
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.FileCaptureRAW\Bonsai.FileCaptureRAW\obj\Debug\Bonsai.FileCaptureRAW.dll
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.FileCaptureRAW\Bonsai.FileCaptureRAW\obj\Debug\Bonsai.FileCaptureRAW.pdb
