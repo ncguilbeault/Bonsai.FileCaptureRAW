@@ -34,6 +34,8 @@ namespace Bonsai.FileCaptureRAW
 
         public int StartPosition { get; set; }
 
+        public int EndPosition { get; set; }
+
         private IObservable<IplImage> source;
 
         public FileCaptureRAW()
@@ -46,12 +48,18 @@ namespace Bonsai.FileCaptureRAW
                     double frameRate = FrameRate;
                     bool replay = Replay;
                     int startPosition = StartPosition;
+                    int endPosition = EndPosition;
                     Capture capture = Capture.CreateFileCapture(fileName);
-                    double frameCount = capture.GetProperty(CaptureProperty.FrameCount);
+                    int frameCount = (int) capture.GetProperty(CaptureProperty.FrameCount);
                     int i;
                     if (startPosition < 0 || startPosition >= frameCount)
                     {
                         startPosition = 0;
+                    }
+                    if (endPosition <= startPosition || endPosition > frameCount)
+                    {
+                        endPosition = frameCount;
+                        EndPosition = endPosition;
                     }
                     i = startPosition;
                     StartPosition = i;
@@ -64,7 +72,7 @@ namespace Bonsai.FileCaptureRAW
                     while (!cancellationToken.IsCancellationRequested)
                     {
                         capture.SetProperty(CaptureProperty.PosFrames, i);
-                        if (i < frameCount - 1)
+                        if (i < endPosition - 1)
                         {
                             i++;
                         }
