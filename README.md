@@ -1,5 +1,5 @@
 # Bonsai.FileCaptureRAW
-[Bonsai](https://bonsai-rx.org/) library module for reading videos in Bonsai, including videos with the RAW video format.
+[Bonsai](https://bonsai-rx.org/) module for reading videos in Bonsai, including videos with the RAW video format.
 
 ## Installation
 Download or clone the repository. From within Bonsai, open up the Bonsai Package Manager, go to settings, and then add the .nuget folder path found in the Bonsai.FileCaptureRAW repository to the list of available package sources.
